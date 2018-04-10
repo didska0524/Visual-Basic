@@ -1,0 +1,11 @@
+D:\201804077\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\201804077\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\201804077\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\201804077\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\201804077\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\201804077\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\201804077\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\201804077\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\201804077\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\201804077\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\201804077\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb

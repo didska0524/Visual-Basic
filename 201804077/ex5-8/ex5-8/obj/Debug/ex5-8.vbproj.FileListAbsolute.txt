@@ -1,0 +1,10 @@
+D:\201804077\ex5-8\ex5-8\bin\Debug\ex5-8.exe.config
+D:\201804077\ex5-8\ex5-8\bin\Debug\ex5-8.exe
+D:\201804077\ex5-8\ex5-8\bin\Debug\ex5-8.pdb
+D:\201804077\ex5-8\ex5-8\bin\Debug\ex5-8.xml
+D:\201804077\ex5-8\ex5-8\obj\Debug\ex5_8.Form1.resources
+D:\201804077\ex5-8\ex5-8\obj\Debug\ex5_8.Resources.resources
+D:\201804077\ex5-8\ex5-8\obj\Debug\ex5-8.vbproj.GenerateResource.Cache
+D:\201804077\ex5-8\ex5-8\obj\Debug\ex5-8.exe
+D:\201804077\ex5-8\ex5-8\obj\Debug\ex5-8.xml
+D:\201804077\ex5-8\ex5-8\obj\Debug\ex5-8.pdb
